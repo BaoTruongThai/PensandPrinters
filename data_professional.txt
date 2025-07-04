@@ -1,0 +1,36 @@
+1. data missing
+2. data cleaning: sales method
+
+Analysis:
+1.revenue:
+	+distribution in each method
+	+distribution in each method by week product released
+
+2.number of customer:
+	+by each method
+	+quality of customer in each method? -- loyal? newcomers?
+	+metric? - customer/revenue, customer/nb_sold, conversion rate
+
+3.number of site visits before purchase
+	+by each method
+
+4.Number of product sold:
+	+by each method
+
+5.Years as customers:
+	+categorize customer --> revenue come from which group
+	
+
+
+
+Insights:
+ -Number of customers: EMAIL rank first, Email + call has the least
+ -Revenue: Email + Call has range of price highest, Email second (revenue EACH customer generate) ~ average 
+           SUM(revenue): Email + Call second, Email rank first
+ -Number product sold average: Email + Call rank first, email, then call both below average whole dataset
+			       SUM(nb_sold) Email + Call is the least, Email is the highest (largerst num_of_customers)
+==> Customers in E & Call tend to buy more products than others (12 products)
+    
+    Easier to buy products, take just around 2 shops to buy a product
+    
+
