@@ -1,3 +1,6 @@
+# Project Purpose
+Examining and deciding the best marketing strategy that would be the most appropriate approach for maximising the revenue and profit of the new product line. 
+
 # PensandPrinters
 
 Pens and Printers was founded in 1984 and provides high quality office products to large organizations. We are a trusted provider of everything from pens and notebooks to desk chairs and monitors. We don’t produce our own products but sell those made by other companies.
@@ -6,7 +9,7 @@ We have built long lasting relationships with our customers and they trust us to
 
 # Data validation
 
-The original dataset contains 15000 rows and 8 columns before cleaning and validation. I have validated all the columns against the criteria in the dataset table:
+The original dataset contains 15000 rows and 8 columns before cleaning and validation.
 
     **week**: 6 unique values, from 1 to 6. No cleaning is needed.
     **sales_method**: 3 unique methods including Call, Email and Email+Call, with 23 values like as “em + call” and 10 values like as “email” were corrected.
