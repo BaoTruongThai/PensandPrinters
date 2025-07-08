@@ -25,3 +25,9 @@ The original dataset contains 15000 rows and 8 columns before cleaning and valid
     **years_as_customer**: numeric values with a 2 outliers identified as a customer with 47 and 63 years as customer. However, the store has been in existence for 39 years, since 1984.
     **nb_site_visits**: numeric values without missing values, same as the description. No cleaning is needed.
     **state**: 50 possible values without missing values, same as the description. No cleaning is needed.
+
+# Dependencies
+- pandas
+- matplotlib
+- seaborn
+- numpy
